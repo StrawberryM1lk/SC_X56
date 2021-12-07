@@ -106,13 +106,13 @@
    <rebind input="js2_ "/>
   </action>
   <action name="v_strafe_back">
-   <rebind input="js1_ "/>
+   <rebind input="js2_y"/>
   </action>
   <action name="v_strafe_down">
    <rebind input="js1_ "/>
   </action>
   <action name="v_strafe_forward">
-   <rebind input="js2_y"/>
+   <rebind input="js1_ "/>
   </action>
   <action name="v_strafe_lateral">
    <rebind input="js2_rotx"/>
